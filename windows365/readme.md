@@ -52,14 +52,15 @@ Some applications (like Microsoft Teams) require local camera and microphone acc
 ## Visual Reference
 
 ### Multi-Monitor Setting in Windows 365 App  
-![Multi-Monitor Settings](image-1.jpg)
+![Multi-Monitor Settings](image-1.png)
+Replicate this settings for using Muliple Monitor.
 
 ### Camera Access Settings  
-![Camera Settings](image-3.jpg)
+![Camera Settings](image-2.png)
+Turn on toggle for Windows app for Camera Permission
 
 ### Microphone Access Settings  
-![Microphone Settings](image-2.jpg)
+![Microphone Settings](image-3.png)
+Turn on toggle for Windows app for Microphone Permission
 
-### Cloud PC Settings Access  
-![Cloud PC Settings](image-4.jpg)
 
