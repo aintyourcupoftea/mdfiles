@@ -5,7 +5,7 @@ This guide will help you configure your Windows 365 Cloud PC app for optimal use
 ---
 
 ### Multi-Monitor Setting in Windows 365 App  
-![Multi-Monitor Settings](image-1.jpg)
+![Multi-Monitor Settings](image-1.png)
 If you use multiple monitors:  
 - Open Windows 365 app, right-click your Cloud PC, hit **Settings**.
 - Turn off **Use default settings**
@@ -18,14 +18,14 @@ If you use multiple monitors:
 
 
 ### Camera Access Settings  
-![Camera Settings](image-2.jpg) 
-- Go to **Privacy & security > Camera** in Windows settings.
+![Camera Settings](image-2.png) 
+- Go to **Privacy & security > Camera** in Windows(local) settings.
 - Find **Windows App**—set the toggle to **On** like you mean it.
 
 ---
 
 ### Microphone Access Settings  
-![Microphone Settings](image-3.jpg)  
-- Hop over to **Privacy & security > Microphone**.
+![Microphone Settings](image-3.png)  
+- Go to **Privacy & security > Microphone** in Windows(local) settings.
 - Make sure **Windows App** is switched **On**.
 
